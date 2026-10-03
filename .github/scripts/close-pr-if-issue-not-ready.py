@@ -88,3 +88,4 @@ if merged_pr_count is not None and merged_pr_count < 10:
     pr.create_issue_comment(MESSAGE)
     pr.edit(state="closed")
     pr.add_to_labels("linked issue not ready")
+# Integration test fixture: H1.
