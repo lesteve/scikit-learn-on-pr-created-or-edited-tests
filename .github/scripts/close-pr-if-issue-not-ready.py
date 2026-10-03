@@ -90,3 +90,4 @@ if merged_pr_count is not None and merged_pr_count < 10:
     pr.add_to_labels("linked issue not ready")
 # Integration test fixture: H1.
 # Integration test fixture: H2.
+# Integration test fixture: H3.
