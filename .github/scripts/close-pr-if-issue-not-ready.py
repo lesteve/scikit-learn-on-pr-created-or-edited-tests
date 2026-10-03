@@ -94,3 +94,4 @@ if merged_pr_count is not None and merged_pr_count < 10:
 # Integration test fixture: H4.
 # Integration test fixture: H5.
 # Integration test fixture: H6.
+# Integration test fixture: H7.
